@@ -1,0 +1,23 @@
+[33mcommit a3431aace645dac38b444bbe6b0546855bd3670c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m)[m
+Author: kojo mensah <michaelki1624@uds.edu.gh>
+Date:   Sun Jun 14 21:34:20 2026 +0000
+
+    just added a new file with changes
+
+[33mcommit 3bb0aa485b1ff4690b1b0499227a58511ebab613[m[33m ([m[1;32mmain[m[33m)[m
+Author: kojo mensah <michaelki1624@uds.edu.gh>
+Date:   Sun Jun 14 21:22:59 2026 +0000
+
+    I have made some changes to the file
+
+[33mcommit 0e9180a1f7ff267f4f8a63cb47894f659577a37b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Thinkman405 <181349013+Thinkman405@users.noreply.github.com>
+Date:   Sun Jun 14 21:03:36 2026 +0000
+
+    Add two.txt with initial content 'two'
+
+[33mcommit f4e001f99851b439d2612e0f036c8076b5c24877[m
+Author: Thinkman405 <181349013+Thinkman405@users.noreply.github.com>
+Date:   Sun Jun 14 21:03:19 2026 +0000
+
+    Add one.txt with initial content
